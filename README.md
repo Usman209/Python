@@ -1,2 +1,3 @@
 # python
 development
+embedded python
